@@ -11,7 +11,7 @@ This repository is intended for the Hackathon participants to share ideas. The e
 5. [Investigation of Bacalhau for use in cohort discovery](5.md)
 6. [A collaborative platform for research study and data management](6.md)
 7. [Cross-linking literature and electronic health records](7.md)
-8. [Characterising and classifying the figures contained within case reports](8.md)
+8. [Characterising and classifying the images contained within case reports](8.md)
 9. [Sustaining SPOC - the Galaxy Single-cell & sPatial Omics Community of practice](9.md)
 10. [Automated entity linkages for enhanced data discovery](10.md)
 11. 
