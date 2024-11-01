@@ -14,5 +14,5 @@ This repository is intended for the Hackathon participants to share ideas. The e
 8. [Characterising and classifying the images contained within case reports](8.md)
 9. [Sustaining SPOC - the Galaxy Single-cell & sPatial Omics Community of practice](9.md)
 10. [Automated entity linkages for enhanced data discovery](10.md)
-11. 
-12. 
+11. [Code list toolkit](11.md)
+12. [Adopting RO-Crate for enhanced metadata management and visualisation](12.md)
